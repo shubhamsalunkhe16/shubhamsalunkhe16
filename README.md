@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Bhagwan Salunkhe
 
-<!--
-**shubhamsalunkhe16/shubhamsalunkhe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Frontend Developer | AI Integration Enthusiast | Scalable Architect**
 
-Here are some ideas to get you started:
+Frontend Developer with 3+ years of experience in creating and developing innovative web applications. My background includes building AI-driven content platforms, contributing to music streaming services, and leading teams in high-impact projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+### Frontend:
+- HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript
+- React, Redux, Next.js, React Native
+### Backend:
+- Node.js (Express), Java (Spring Boot), Python
+### Databases:
+- MySQL, MongoDB, Firebase
+### Frameworks & Tools:
+- Git, FFmpeg, Algolia, OpenAI, Tuney's AI
+### Other Skills:
+- Scalable architecture design, AI Integration, API integration, Agile methodology, Responsive design
+
+---
+
+## 🌐 Connect with Me
+- 📧 **Email:** [salunkheshubham0@gmail.com](mailto:salunkheshubham0@gmail.com)
+- 🌍 **Portfolio:** [Click Here](https://shubhamsalunkhe16.netlify.app/)
+- 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/shubhamsalunkhe16/)
+
+---
+
+> “I believe in building scalable, efficient, and innovative digital solutions that solve real-world problems.”
