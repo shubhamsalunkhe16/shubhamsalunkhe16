@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shubham Bhagwan Salunkhe
 
-🚀 **Senior Frontend Developer**
+🚀 **Senior Full Stack Developer**
 
-Frontend Developer with 3+ years of experience in creating and developing innovative web applications. My background includes building AI-driven content platforms, contributing to music streaming services, and leading teams in high-impact projects.
+Full Stack Developer with 4+ years of experience building responsive, scalable and AI-driven web applications. Skilled in React, backend technologies, and performance optimization. Delivered solutions for top-tier brands. Passionate about clean code, collaboration, and continuous learning, transforming real world challenges into impactful digital products.
 
 ---
 
