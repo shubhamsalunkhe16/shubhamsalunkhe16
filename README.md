@@ -2,7 +2,7 @@
 
 🚀 **Senior React Full Stack Developer**
 
-Full Stack Developer with 4+ years of experience building responsive, scalable and AI-driven web applications. Skilled in React, backend technologies, and performance optimization. Delivered solutions for top-tier brands. Passionate about clean code, collaboration, and continuous learning, transforming real world challenges into impactful digital products.
+Frontend-Focused Full Stack Developer with 4+ years of experience in building scalable, AI-integrated web applications using React.js, Redux, Next.js and Node.js. Specialized in responsive UI development using Tailwind CSS, Shadcn UI, Material UI, and Formik. Delivered AI based platforms with OpenAI, Gemini, and Tuney integration, improving automation and reducing manual effort by 40%. Developed Puppeteer-based scrapers for 7+ social platforms, processing 500+ assets weekly. Built secure dashboards, multi-session flows, role-based admin panels, and AI chat analysis tools. Improved delivery speed by 25%, reduced LLM compute cost by 30%, and optimized architecture to cut production issues by 50%. Worked on Firebase, SQLite, Typescript, FFmpeg, Git, and REST APIs. Strong focus on performance, clean code, and UX. Actively seeking React-heavy full stack roles in product-driven teams.
 
 ---
 
