@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Bhagwan Salunkhe
 
-🚀 **Senior Full Stack Developer**
+🚀 **Senior React Full Stack Developer**
 
 Full Stack Developer with 4+ years of experience building responsive, scalable and AI-driven web applications. Skilled in React, backend technologies, and performance optimization. Delivered solutions for top-tier brands. Passionate about clean code, collaboration, and continuous learning, transforming real world challenges into impactful digital products.
 
