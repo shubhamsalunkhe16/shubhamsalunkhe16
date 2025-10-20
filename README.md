@@ -2,7 +2,7 @@
 
 🚀 **Senior React Full Stack Developer**
 
-Frontend-Focused Full Stack Developer with 4+ years of experience in building scalable, AI-integrated web applications using React.js, Redux, Next.js and Node.js. Specialized in responsive UI development using Tailwind CSS, Shadcn UI, Material UI, and Formik. Delivered AI based platforms with OpenAI, Gemini, and Tuney integration, improving automation and reducing manual effort by 40%. Developed Puppeteer-based scrapers for 7+ social platforms, processing 500+ assets weekly. Built secure dashboards, multi-session flows, role-based admin panels, and AI chat analysis tools. Improved delivery speed by 25%, reduced LLM compute cost by 30%, and optimized architecture to cut production issues by 50%. Worked on Firebase, SQLite, Typescript, FFmpeg, Git, and REST APIs. Strong focus on performance, clean code, and UX. Actively seeking React-heavy full stack roles in product-driven teams.
+A dedicated Full Stack Developer with over 4+ years of experience in building innovative, scalable, responsive and user-centered web applications. After graduating with a Bachelor of Engineering in 2019, I’ve honed my skills in frontend technologies and have good understanding of backend architectures and database management. At GoPhygital, I’ve contributed significantly to the development of AI-driven platforms for global brands, with a focus on cutting-edge features like text-to-speech functionality, real-time content creation tools, web streaming platform and social media analytics. My passion for coding is matched by my commitment to team collaboration, having successfully mentored colleagues and streamlined development processes. Whether developing custom ECommerce solutions or creating dynamic, interactive user interfaces, I am always driven by the goal to build seamless, efficient, and impactful digital experiences. I believe in continuous learning and strive to deliver high-quality solutions that address real-world challenges.
 
 ---
 
@@ -22,7 +22,6 @@ Frontend-Focused Full Stack Developer with 4+ years of experience in building sc
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
